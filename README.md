@@ -34,7 +34,7 @@ Run the `main.py` script to start the real-time audio transcription. The transcr
 
 ## Demonstration
 
-Check out this [video demonstration](link_to_your_video) to see how the code performs on voice.
+Check out this [video demonstration](https://drive.google.com/file/d/1s5K-GNXqXBTTkdlnZrKPUWa0DYjGUtmE/view?usp=sharing) to see how the code performs on voice.
 
 ## Code Structure
 
